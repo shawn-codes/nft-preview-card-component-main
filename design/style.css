@@ -10,8 +10,8 @@ html {
   /* 62.5% of 16pxn = 10px */
   font-size: 62.5%;
 }
-
-/* body {
+/* 
+body {
   background-color: hsl(217, 54%, 11%);
   font-family: "Outfit", sans-serif;
   color: #fff;
